@@ -4,6 +4,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public Rigidbody2D rb;
+    public Animator anim;
+
     public float speed;
     public float jumpForce;
 
@@ -12,11 +14,13 @@ public class PlayerController : MonoBehaviour
     public float groundCheckRadius;
     public LayerMask groundLayer;
 
-    [Header("Holt To Jump Settings")]
+    [Header("Hold To Jump Settings")]
     public float maxJumpTime = .3f;
     public float holdForce = 3;
     private bool isJumping;
     private float jumpTimeCounter;
+
+    public float deceleration = 40f;
 
     private int facingDirection = 1;
     private float horizontal;
@@ -26,6 +30,10 @@ public class PlayerController : MonoBehaviour
     {
         //Movement
         horizontal = Input.GetAxisRaw("Horizontal");
+        anim.SetFloat("horizontal", Mathf.Abs(horizontal));
+        anim.SetBool("IsGrounded", IsGrounded());
+        anim.SetFloat("VerticalVelocity", rb.linearVelocity.y);
+
 
         if(horizontal > .1f && facingDirection < 0 || horizontal < -.1f && facingDirection > 0)
         {
@@ -40,12 +48,12 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
         }
 
-        //Countinue Jumping
-        if(Input.GetButton("Jump") && isJumping == true)
+        // Continue Jumping
+        if (Input.GetButton("Jump") && isJumping)
         {
-            if(jumpTimeCounter > 0)
+            if (jumpTimeCounter > 0)
             {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, holdForce);
+                rb.AddForce(Vector2.up * holdForce, ForceMode2D.Force); // zamiast nadpisywać velocity
                 jumpTimeCounter -= Time.deltaTime;
             }
             else

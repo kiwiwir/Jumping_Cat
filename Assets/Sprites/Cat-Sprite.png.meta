@@ -1,136 +1,136 @@
 fileFormatVersion: 2
-guid: bac8b2b21dbcf574aa4802793e72ad02
+guid: b9f227896d254084eb09b61771bb07c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3452685666649938826
-    second: Cat-Sprite-Sheet_0
+      213: -4285668938828220762
+    second: Cat-Sprite_0
   - first:
-      213: 711254256962780969
-    second: Cat-Sprite-Sheet_1
+      213: -116304129946186233
+    second: Cat-Sprite_1
   - first:
-      213: -1566423619991128889
-    second: Cat-Sprite-Sheet_2
+      213: 4834214627838272073
+    second: Cat-Sprite_2
   - first:
-      213: 7809275136646881386
-    second: Cat-Sprite-Sheet_3
+      213: 309558526084566512
+    second: Cat-Sprite_3
   - first:
-      213: 6903469585997229293
-    second: Cat-Sprite-Sheet_4
+      213: 1079047181224831317
+    second: Cat-Sprite_4
   - first:
-      213: 3100753059440470751
-    second: Cat-Sprite-Sheet_5
+      213: 6348598856178907894
+    second: Cat-Sprite_5
   - first:
-      213: 395948663694704789
-    second: Cat-Sprite-Sheet_6
+      213: -541443346361419276
+    second: Cat-Sprite_6
   - first:
-      213: -605418989021644403
-    second: Cat-Sprite-Sheet_7
+      213: -963123170823122163
+    second: Cat-Sprite_7
   - first:
-      213: -8910281898483594414
-    second: Cat-Sprite-Sheet_8
+      213: -1004963506695990920
+    second: Cat-Sprite_8
   - first:
-      213: 3130253061979771142
-    second: Cat-Sprite-Sheet_9
+      213: 2748120036833763980
+    second: Cat-Sprite_9
   - first:
-      213: -5791215871104441998
-    second: Cat-Sprite-Sheet_10
+      213: 4842705832217593720
+    second: Cat-Sprite_10
   - first:
-      213: 3139151917069945860
-    second: Cat-Sprite-Sheet_11
+      213: -2271015008037751044
+    second: Cat-Sprite_11
   - first:
-      213: -592551115448070081
-    second: Cat-Sprite-Sheet_12
+      213: 6582941377877014098
+    second: Cat-Sprite_12
   - first:
-      213: -4802467218387704295
-    second: Cat-Sprite-Sheet_13
+      213: 788834297653136595
+    second: Cat-Sprite_13
   - first:
-      213: -2785781197208552
-    second: Cat-Sprite-Sheet_14
+      213: -5337664555401590457
+    second: Cat-Sprite_14
   - first:
-      213: -4463622033979546427
-    second: Cat-Sprite-Sheet_15
+      213: -750498557511927514
+    second: Cat-Sprite_15
   - first:
-      213: 1628904136674576378
-    second: Cat-Sprite-Sheet_16
+      213: 3717590031605762095
+    second: Cat-Sprite_16
   - first:
-      213: 686897786017425407
-    second: Cat-Sprite-Sheet_17
+      213: 2064334115190008013
+    second: Cat-Sprite_17
   - first:
-      213: -8575457948996452394
-    second: Cat-Sprite-Sheet_18
+      213: -3177776391327959697
+    second: Cat-Sprite_18
   - first:
-      213: 6137728417814900440
-    second: Cat-Sprite-Sheet_19
+      213: 912796188826023957
+    second: Cat-Sprite_19
   - first:
-      213: 4283397524926226888
-    second: Cat-Sprite-Sheet_20
+      213: -2186603327840952939
+    second: Cat-Sprite_20
   - first:
-      213: -1227028230420942885
-    second: Cat-Sprite-Sheet_21
+      213: 3618168949931482785
+    second: Cat-Sprite_21
   - first:
-      213: -8022401676131256677
-    second: Cat-Sprite-Sheet_22
+      213: 5751782367662358175
+    second: Cat-Sprite_22
   - first:
-      213: 5209338828446849729
-    second: Cat-Sprite-Sheet_23
+      213: 2035476911928128997
+    second: Cat-Sprite_23
   - first:
-      213: -8157323824559934512
-    second: Cat-Sprite-Sheet_24
+      213: -3652064712246409552
+    second: Cat-Sprite_24
   - first:
-      213: -6808213590911928773
-    second: Cat-Sprite-Sheet_25
+      213: 4798348689528588382
+    second: Cat-Sprite_25
   - first:
-      213: 8314615826389956437
-    second: Cat-Sprite-Sheet_26
+      213: -808891652734889156
+    second: Cat-Sprite_26
   - first:
-      213: 6336102510791284145
-    second: Cat-Sprite-Sheet_27
+      213: 935737688932308526
+    second: Cat-Sprite_27
   - first:
-      213: 2416394716130381163
-    second: Cat-Sprite-Sheet_28
+      213: 891074674267966532
+    second: Cat-Sprite_28
   - first:
-      213: 6777163619595296006
-    second: Cat-Sprite-Sheet_29
+      213: -1420111153739571068
+    second: Cat-Sprite_29
   - first:
-      213: 8567255916004729806
-    second: Cat-Sprite-Sheet_30
+      213: 8449892176247763977
+    second: Cat-Sprite_30
   - first:
-      213: 4136809727006814909
-    second: Cat-Sprite-Sheet_31
+      213: 8177953955143797241
+    second: Cat-Sprite_31
   - first:
-      213: -366624103304766748
-    second: Cat-Sprite-Sheet_32
+      213: -865251228244817179
+    second: Cat-Sprite_32
   - first:
-      213: -6774075838580019937
-    second: Cat-Sprite-Sheet_33
+      213: -7050505738710561907
+    second: Cat-Sprite_33
   - first:
-      213: -36527655986968020
-    second: Cat-Sprite-Sheet_34
+      213: 6791211388341719002
+    second: Cat-Sprite_34
   - first:
-      213: -7384929145854356475
-    second: Cat-Sprite-Sheet_35
+      213: 1292543110657393890
+    second: Cat-Sprite_35
   - first:
-      213: -3348235598027914423
-    second: Cat-Sprite-Sheet_36
+      213: 3559248036679922700
+    second: Cat-Sprite_36
   - first:
-      213: 8943797116141505889
-    second: Cat-Sprite-Sheet_37
+      213: -3004444625747673975
+    second: Cat-Sprite_37
   - first:
-      213: -5791159737941999778
-    second: Cat-Sprite-Sheet_38
+      213: -5968080712300857568
+    second: Cat-Sprite_38
   - first:
-      213: -6774333415360836177
-    second: Cat-Sprite-Sheet_39
+      213: 7639599510093638261
+    second: Cat-Sprite_39
   - first:
-      213: -6961349850593277617
-    second: Cat-Sprite-Sheet_40
+      213: 6037692326842250025
+    second: Cat-Sprite_40
   - first:
-      213: 3016585757381261826
-    second: Cat-Sprite-Sheet_41
+      213: -4085604090436242808
+    second: Cat-Sprite_41
   - first:
-      213: 3900322821406092549
-    second: Cat-Sprite-Sheet_42
+      213: 4020212642865753997
+    second: Cat-Sprite_42
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -226,7 +226,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_0
+      name: Cat-Sprite_0
       rect:
         serializedVersion: 2
         x: 0
@@ -241,14 +241,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8b90c912576aef20800000000000000
-      internalID: 3452685666649938826
+      spriteID: 6a6f73c7ece3684c0800000000000000
+      internalID: -4285668938828220762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_1
+      name: Cat-Sprite_1
       rect:
         serializedVersion: 2
         x: 32
@@ -263,14 +263,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92f30437af1eed900800000000000000
-      internalID: 711254256962780969
+      spriteID: 70e85a0920ec26ef0800000000000000
+      internalID: -116304129946186233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_2
+      name: Cat-Sprite_2
       rect:
         serializedVersion: 2
         x: 64
@@ -285,14 +285,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c4b5a25402f24ae0800000000000000
-      internalID: -1566423619991128889
+      spriteID: 9422c4c5794961340800000000000000
+      internalID: 4834214627838272073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_3
+      name: Cat-Sprite_3
       rect:
         serializedVersion: 2
         x: 96
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a60a0298c5e106c60800000000000000
-      internalID: 7809275136646881386
+      spriteID: 0fdc670e6d5cb4400800000000000000
+      internalID: 309558526084566512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_4
+      name: Cat-Sprite_4
       rect:
         serializedVersion: 2
         x: 128
@@ -329,14 +329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dece317230d0ecf50800000000000000
-      internalID: 6903469585997229293
+      spriteID: 559eaccb1bb89fe00800000000000000
+      internalID: 1079047181224831317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_5
+      name: Cat-Sprite_5
       rect:
         serializedVersion: 2
         x: 160
@@ -351,14 +351,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdaa724aa76180b20800000000000000
-      internalID: 3100753059440470751
+      spriteID: 6fabefbf501ca1850800000000000000
+      internalID: 6348598856178907894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_6
+      name: Cat-Sprite_6
       rect:
         serializedVersion: 2
         x: 192
@@ -373,14 +373,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59040d83631be7500800000000000000
-      internalID: 395948663694704789
+      spriteID: 4f9f02a25286c78f0800000000000000
+      internalID: -541443346361419276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_7
+      name: Cat-Sprite_7
       rect:
         serializedVersion: 2
         x: 0
@@ -395,14 +395,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d89b61b13ae1997f0800000000000000
-      internalID: -605418989021644403
+      spriteID: d03d328349c42a2f0800000000000000
+      internalID: -963123170823122163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_8
+      name: Cat-Sprite_8
       rect:
         serializedVersion: 2
         x: 32
@@ -417,14 +417,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25bca4072d1585480800000000000000
-      internalID: -8910281898483594414
+      spriteID: 8719723e307ad02f0800000000000000
+      internalID: -1004963506695990920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_9
+      name: Cat-Sprite_9
       rect:
         serializedVersion: 2
         x: 64
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60112683394e07b20800000000000000
-      internalID: 3130253061979771142
+      spriteID: c822c930d98432620800000000000000
+      internalID: 2748120036833763980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_10
+      name: Cat-Sprite_10
       rect:
         serializedVersion: 2
         x: 96
@@ -461,14 +461,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 271273139d771afa0800000000000000
-      internalID: -5791215871104441998
+      spriteID: 877ca01fb4fb43340800000000000000
+      internalID: 4842705832217593720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_11
+      name: Cat-Sprite_11
       rect:
         serializedVersion: 2
         x: 128
@@ -483,14 +483,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40cc0f06902809b20800000000000000
-      internalID: 3139151917069945860
+      spriteID: cf6345ee1ebbb70e0800000000000000
+      internalID: -2271015008037751044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_12
+      name: Cat-Sprite_12
       rect:
         serializedVersion: 2
         x: 160
@@ -505,14 +505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f30d47466e5d6c7f0800000000000000
-      internalID: -592551115448070081
+      spriteID: 25674952e4e4b5b50800000000000000
+      internalID: 6582941377877014098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_13
+      name: Cat-Sprite_13
       rect:
         serializedVersion: 2
         x: 192
@@ -527,14 +527,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 916ea8a62853a5db0800000000000000
-      internalID: -4802467218387704295
+      spriteID: 3dc82424d9082fa00800000000000000
+      internalID: 788834297653136595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_14
+      name: Cat-Sprite_14
       rect:
         serializedVersion: 2
         x: 224
@@ -549,14 +549,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8148155c85a16fff0800000000000000
-      internalID: -2785781197208552
+      spriteID: 7494815fd5ecce5b0800000000000000
+      internalID: -5337664555401590457
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_15
+      name: Cat-Sprite_15
       rect:
         serializedVersion: 2
         x: 256
@@ -571,14 +571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c4ea0dc8670e02c0800000000000000
-      internalID: -4463622033979546427
+      spriteID: 629fe0bc981b595f0800000000000000
+      internalID: -750498557511927514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_16
+      name: Cat-Sprite_16
       rect:
         serializedVersion: 2
         x: 0
@@ -593,14 +593,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af707a79ea70b9610800000000000000
-      internalID: 1628904136674576378
+      spriteID: f280566ef68879330800000000000000
+      internalID: 3717590031605762095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_17
+      name: Cat-Sprite_17
       rect:
         serializedVersion: 2
         x: 32
@@ -615,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff72294a5e9588900800000000000000
-      internalID: 686897786017425407
+      spriteID: dc8ee91c0fcf5ac10800000000000000
+      internalID: 2064334115190008013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_18
+      name: Cat-Sprite_18
       rect:
         serializedVersion: 2
         x: 64
@@ -637,14 +637,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6df34cb1e6addf880800000000000000
-      internalID: -8575457948996452394
+      spriteID: f65364b653546e3d0800000000000000
+      internalID: -3177776391327959697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_19
+      name: Cat-Sprite_19
       rect:
         serializedVersion: 2
         x: 96
@@ -659,14 +659,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8de6da71a779d2550800000000000000
-      internalID: 6137728417814900440
+      spriteID: 5183e4b2c47eaac00800000000000000
+      internalID: 912796188826023957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_20
+      name: Cat-Sprite_20
       rect:
         serializedVersion: 2
         x: 128
@@ -681,14 +681,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c1e301ca5fa17b30800000000000000
-      internalID: 4283397524926226888
+      spriteID: 59d5a53cbdf97a1e0800000000000000
+      internalID: -2186603327840952939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_21
+      name: Cat-Sprite_21
       rect:
         serializedVersion: 2
         x: 0
@@ -703,14 +703,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdf22645358b8fee0800000000000000
-      internalID: -1227028230420942885
+      spriteID: 1ae93067d71563230800000000000000
+      internalID: 3618168949931482785
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_22
+      name: Cat-Sprite_22
       rect:
         serializedVersion: 2
         x: 32
@@ -725,14 +725,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b96b2b81e24baa090800000000000000
-      internalID: -8022401676131256677
+      spriteID: f9ebed1d69f62df40800000000000000
+      internalID: 5751782367662358175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_23
+      name: Cat-Sprite_23
       rect:
         serializedVersion: 2
         x: 64
@@ -747,14 +747,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ca5930701a4b4840800000000000000
-      internalID: 5209338828446849729
+      spriteID: 5e53cfb87777f3c10800000000000000
+      internalID: 2035476911928128997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_24
+      name: Cat-Sprite_24
       rect:
         serializedVersion: 2
         x: 96
@@ -769,14 +769,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d3364f633d5bce80800000000000000
-      internalID: -8157323824559934512
+      spriteID: 0b640d16e72415dc0800000000000000
+      internalID: -3652064712246409552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_25
+      name: Cat-Sprite_25
       rect:
         serializedVersion: 2
         x: 128
@@ -791,14 +791,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3635be7fcd5481a0800000000000000
-      internalID: -6808213590911928773
+      spriteID: e5800dbd5b8279240800000000000000
+      internalID: 4798348689528588382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_26
+      name: Cat-Sprite_26
       rect:
         serializedVersion: 2
         x: 160
@@ -813,14 +813,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55770d79a03736370800000000000000
-      internalID: 8314615826389956437
+      spriteID: c3355f8d35d36c4f0800000000000000
+      internalID: -808891652734889156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_27
+      name: Cat-Sprite_27
       rect:
         serializedVersion: 2
         x: 192
@@ -835,14 +835,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b5dc28d9ab5ee750800000000000000
-      internalID: 6336102510791284145
+      spriteID: e2651c768786cfc00800000000000000
+      internalID: 935737688932308526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_28
+      name: Cat-Sprite_28
       rect:
         serializedVersion: 2
         x: 0
@@ -857,14 +857,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d05141132c88120800000000000000
-      internalID: 2416394716130381163
+      spriteID: 44cc614f1bbbd5c00800000000000000
+      internalID: 891074674267966532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_29
+      name: Cat-Sprite_29
       rect:
         serializedVersion: 2
         x: 32
@@ -879,14 +879,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60d9da2b7625d0e50800000000000000
-      internalID: 6777163619595296006
+      spriteID: 48068c30e60ca4ce0800000000000000
+      internalID: -1420111153739571068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_30
+      name: Cat-Sprite_30
       rect:
         serializedVersion: 2
         x: 64
@@ -901,14 +901,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec363554dd105e670800000000000000
-      internalID: 8567255916004729806
+      spriteID: 904b9933a2c044570800000000000000
+      internalID: 8449892176247763977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_31
+      name: Cat-Sprite_31
       rect:
         serializedVersion: 2
         x: 96
@@ -923,14 +923,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db23f996786e86930800000000000000
-      internalID: 4136809727006814909
+      spriteID: 9f9c8d52bcded7170800000000000000
+      internalID: 8177953955143797241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_32
+      name: Cat-Sprite_32
       rect:
         serializedVersion: 2
         x: 128
@@ -945,14 +945,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ea5c6c025d79eaf0800000000000000
-      internalID: -366624103304766748
+      spriteID: 5ea4ffa97920ef3f0800000000000000
+      internalID: -865251228244817179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_33
+      name: Cat-Sprite_33
       rect:
         serializedVersion: 2
         x: 160
@@ -967,14 +967,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1da1e75ae5adf1a0800000000000000
-      internalID: -6774075838580019937
+      spriteID: d8bcd45c262972e90800000000000000
+      internalID: -7050505738710561907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cat-Sprite-Sheet_34
+      name: Cat-Sprite_34
       rect:
         serializedVersion: 2
         x: 192
@@ -989,8 +989,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2a4b685a4a3e7ff0800000000000000
-      internalID: -36527655986968020
+      spriteID: adf02bcb6ca3f3e50800000000000000
+      internalID: 6791211388341719002
       vertices: []
       indices: 
       edges: []
@@ -999,7 +999,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 529d5ac8207225f4bbfe2b9d07558243
+    spriteID: 6dcfc6c0b2624c84c988f63faac6cdd9
     internalID: 0
     vertices: []
     indices: 
@@ -1011,41 +1011,41 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Cat-Sprite-Sheet_0: 3452685666649938826
-      Cat-Sprite-Sheet_1: 711254256962780969
-      Cat-Sprite-Sheet_10: -5791215871104441998
-      Cat-Sprite-Sheet_11: 3139151917069945860
-      Cat-Sprite-Sheet_12: -592551115448070081
-      Cat-Sprite-Sheet_13: -4802467218387704295
-      Cat-Sprite-Sheet_14: -2785781197208552
-      Cat-Sprite-Sheet_15: -4463622033979546427
-      Cat-Sprite-Sheet_16: 1628904136674576378
-      Cat-Sprite-Sheet_17: 686897786017425407
-      Cat-Sprite-Sheet_18: -8575457948996452394
-      Cat-Sprite-Sheet_19: 6137728417814900440
-      Cat-Sprite-Sheet_2: -1566423619991128889
-      Cat-Sprite-Sheet_20: 4283397524926226888
-      Cat-Sprite-Sheet_21: -1227028230420942885
-      Cat-Sprite-Sheet_22: -8022401676131256677
-      Cat-Sprite-Sheet_23: 5209338828446849729
-      Cat-Sprite-Sheet_24: -8157323824559934512
-      Cat-Sprite-Sheet_25: -6808213590911928773
-      Cat-Sprite-Sheet_26: 8314615826389956437
-      Cat-Sprite-Sheet_27: 6336102510791284145
-      Cat-Sprite-Sheet_28: 2416394716130381163
-      Cat-Sprite-Sheet_29: 6777163619595296006
-      Cat-Sprite-Sheet_3: 7809275136646881386
-      Cat-Sprite-Sheet_30: 8567255916004729806
-      Cat-Sprite-Sheet_31: 4136809727006814909
-      Cat-Sprite-Sheet_32: -366624103304766748
-      Cat-Sprite-Sheet_33: -6774075838580019937
-      Cat-Sprite-Sheet_34: -36527655986968020
-      Cat-Sprite-Sheet_4: 6903469585997229293
-      Cat-Sprite-Sheet_5: 3100753059440470751
-      Cat-Sprite-Sheet_6: 395948663694704789
-      Cat-Sprite-Sheet_7: -605418989021644403
-      Cat-Sprite-Sheet_8: -8910281898483594414
-      Cat-Sprite-Sheet_9: 3130253061979771142
+      Cat-Sprite_0: -4285668938828220762
+      Cat-Sprite_1: -116304129946186233
+      Cat-Sprite_10: 4842705832217593720
+      Cat-Sprite_11: -2271015008037751044
+      Cat-Sprite_12: 6582941377877014098
+      Cat-Sprite_13: 788834297653136595
+      Cat-Sprite_14: -5337664555401590457
+      Cat-Sprite_15: -750498557511927514
+      Cat-Sprite_16: 3717590031605762095
+      Cat-Sprite_17: 2064334115190008013
+      Cat-Sprite_18: -3177776391327959697
+      Cat-Sprite_19: 912796188826023957
+      Cat-Sprite_2: 4834214627838272073
+      Cat-Sprite_20: -2186603327840952939
+      Cat-Sprite_21: 3618168949931482785
+      Cat-Sprite_22: 5751782367662358175
+      Cat-Sprite_23: 2035476911928128997
+      Cat-Sprite_24: -3652064712246409552
+      Cat-Sprite_25: 4798348689528588382
+      Cat-Sprite_26: -808891652734889156
+      Cat-Sprite_27: 935737688932308526
+      Cat-Sprite_28: 891074674267966532
+      Cat-Sprite_29: -1420111153739571068
+      Cat-Sprite_3: 309558526084566512
+      Cat-Sprite_30: 8449892176247763977
+      Cat-Sprite_31: 8177953955143797241
+      Cat-Sprite_32: -865251228244817179
+      Cat-Sprite_33: -7050505738710561907
+      Cat-Sprite_34: 6791211388341719002
+      Cat-Sprite_4: 1079047181224831317
+      Cat-Sprite_5: 6348598856178907894
+      Cat-Sprite_6: -541443346361419276
+      Cat-Sprite_7: -963123170823122163
+      Cat-Sprite_8: -1004963506695990920
+      Cat-Sprite_9: 2748120036833763980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
