@@ -21,6 +21,8 @@ public class PlayerController : MonoBehaviour
     private float jumpTimeCounter;
 
     public float deceleration = 40f;
+    private float previousHorizontal;
+    private float stopVelocityThreshold = 2f;
 
     private int facingDirection = 1;
     private float horizontal;
@@ -67,12 +69,37 @@ public class PlayerController : MonoBehaviour
         {
             isJumping = false;
         }
+
+        // Stop animation detection
+        bool isStopping = false;
+
+        if (IsGrounded())
+        {
+            if (Mathf.Abs(previousHorizontal) > 0.1f && Mathf.Abs(horizontal) < 0.1f && Mathf.Abs(rb.linearVelocity.x) > stopVelocityThreshold)
+            {
+                isStopping = true;
+            }
+        }
+
+        anim.SetBool("IsStopping", isStopping);
+
+        previousHorizontal = horizontal;
             
     }
     //Runs exactly 50 times per second
-    void FixedUpdate()
+    /*void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+    }*/
+    void FixedUpdate()
+    {
+        float targetSpeed = horizontal * speed;
+        float speedDiff = targetSpeed - rb.linearVelocity.x;
+        float accelRate = (Mathf.Abs(targetSpeed) > 0.01f) ? speed : deceleration;
+
+        float movement = speedDiff * accelRate * Time.fixedDeltaTime;
+
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x + movement, rb.linearVelocity.y);
     }
 
     bool IsGrounded()
