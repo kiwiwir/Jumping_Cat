@@ -55,7 +55,7 @@ public class PlayerController : MonoBehaviour
         {
             if (jumpTimeCounter > 0)
             {
-                rb.AddForce(Vector2.up * holdForce, ForceMode2D.Force); // zamiast nadpisywać velocity
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, holdForce);
                 jumpTimeCounter -= Time.deltaTime;
             }
             else
